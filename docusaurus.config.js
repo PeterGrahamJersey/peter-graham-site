@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'Email Me',
-                href: ' mailto:petergrahamjerseysite@gmail.co.uk',
+                href: 'mailto:petergrahamjerseysite@gmail.co.uk',
               },
               {
                 label: 'Goodreads',
