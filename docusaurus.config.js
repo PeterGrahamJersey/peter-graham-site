@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'Email Me',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: ' mailto:petergrahamjerseysite@gmail.co.uk',
               },
               {
                 label: 'Goodreads',
