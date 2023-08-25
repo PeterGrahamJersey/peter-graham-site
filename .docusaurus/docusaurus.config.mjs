@@ -7,7 +7,7 @@ export default {
   "title": "Peter Graham",
   "tagline": "Educator | Designer | Adventurer",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://mr-graham.co.uk",
   "baseUrl": "/",
   "organizationName": "PeterGrahamJersey",
   "projectName": "peter-graham-site",
@@ -95,7 +95,7 @@ export default {
           "items": [
             {
               "label": "Email Me",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "href": " mailto:petergrahamjerseysite@gmail.co.uk"
             },
             {
               "label": "Goodreads",
