@@ -1,0 +1,290 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/petergraham/Documents/Projects/peter-graham-site/sidebars.js",
+          "contentPath": "/Users/petergraham/Documents/Projects/peter-graham-site/docs",
+          "contentPathLocalized": "/Users/petergraham/Documents/Projects/peter-graham-site/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "teaching/classroom-management",
+              "id": "teaching/classroom-management",
+              "title": "Classroom Management",
+              "description": "Having a plan is your main advantage in classroom management (one of the areas I, and I think everyone struggles with). Here is my current plan.",
+              "source": "@site/docs/teaching/classroom-management.md",
+              "sourceDirName": "teaching",
+              "slug": "/teaching/classroom-management",
+              "permalink": "/docs/teaching/classroom-management",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Standard Lesson",
+                "permalink": "/docs/teaching/standard-lesson"
+              },
+              "next": {
+                "title": "Go-to sites",
+                "permalink": "/docs/teaching/go-to-sites"
+              }
+            },
+            {
+              "unversionedId": "teaching/go-to-sites",
+              "id": "teaching/go-to-sites",
+              "title": "Go-to sites",
+              "description": "Do Nows",
+              "source": "@site/docs/teaching/go-to-sites.md",
+              "sourceDirName": "teaching",
+              "slug": "/teaching/go-to-sites",
+              "permalink": "/docs/teaching/go-to-sites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Classroom Management",
+                "permalink": "/docs/teaching/classroom-management"
+              },
+              "next": {
+                "title": "Planning",
+                "permalink": "/docs/teaching/planning"
+              }
+            },
+            {
+              "unversionedId": "teaching/planner",
+              "id": "teaching/planner",
+              "title": "Planner",
+              "description": "Organisation is essential as a teacher. Here's how I've set up my planner.",
+              "source": "@site/docs/teaching/planner.md",
+              "sourceDirName": "teaching",
+              "slug": "/teaching/planner",
+              "permalink": "/docs/teaching/planner",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Planning",
+                "permalink": "/docs/teaching/planning"
+              }
+            },
+            {
+              "unversionedId": "teaching/planning",
+              "id": "teaching/planning",
+              "title": "Planning",
+              "description": "- Where time allows, plan units of learning cycles instead of individual lessons.",
+              "source": "@site/docs/teaching/planning.md",
+              "sourceDirName": "teaching",
+              "slug": "/teaching/planning",
+              "permalink": "/docs/teaching/planning",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Go-to sites",
+                "permalink": "/docs/teaching/go-to-sites"
+              },
+              "next": {
+                "title": "Planner",
+                "permalink": "/docs/teaching/planner"
+              }
+            },
+            {
+              "unversionedId": "teaching/standard-lesson",
+              "id": "teaching/standard-lesson",
+              "title": "Standard Lesson",
+              "description": "- Do Now",
+              "source": "@site/docs/teaching/standard-lesson.md",
+              "sourceDirName": "teaching",
+              "slug": "/teaching/standard-lesson",
+              "permalink": "/docs/teaching/standard-lesson",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Teaching",
+                "permalink": "/docs/category/teaching"
+              },
+              "next": {
+                "title": "Classroom Management",
+                "permalink": "/docs/teaching/classroom-management"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Teaching",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "teaching/standard-lesson"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "teaching/classroom-management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "teaching/go-to-sites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "teaching/planning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "teaching/planner"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "My current approach to teaching",
+                  "slug": "/category/teaching",
+                  "permalink": "/docs/category/teaching"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "before-it-all-kicks-off",
+          "metadata": {
+            "permalink": "/blog/before-it-all-kicks-off",
+            "source": "@site/blog/2023-08-25-a-website.md",
+            "title": "Before it all kicks off",
+            "description": "What to prepare before back to school? As an ECT 1 there's a sense of peace in my own ignorance. Even with a headstart of 5 weeks before summer I've not done this before and I don't know many of the students. Seating plans are going to be guesses, and while I can (and need to) do some planning I won't know what will work for each class until I start teaching them.",
+            "date": "2023-08-25T00:00:00.000Z",
+            "formattedDate": "August 25, 2023",
+            "tags": [
+              {
+                "label": "education",
+                "permalink": "/blog/tags/education"
+              }
+            ],
+            "readingTime": 1.31,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "before-it-all-kicks-off",
+              "title": "Before it all kicks off",
+              "tags": [
+                "education"
+              ]
+            }
+          },
+          "content": "What to prepare before back to school? As an ECT 1 there's a sense of peace in my own ignorance. Even with a headstart of 5 weeks before summer I've not done this before and I don't know many of the students. Seating plans are going to be guesses, and while I can (and need to) do some planning I won't know what will work for each class until I start teaching them.\n\nAsking a few teachers got the following advice:\n\n1. Sort your classroom\n\n- If you have your own classroom, go into school and spend some time on it.\n- There won't be time on inset days to do this\n- Make sure you have a key for it\n- Make sure you've got the equipment you need\n- Get the tech (whiteboard) working\n\n2. Prepare your planner\n\n- I'm going to use a digital planner, but whatever you use, set it up now\n- Plan a free for ECT work\n- Plan at least 1/2 a free for contact home\n\n3. Plan at least your first week of lessons\n\n4. Sort your seating plans\n\nMy additions:\n\n5. Plan your routines\n\n- Routines I've chosen to start with: whiteboards, entry, exit, behaviour (focused on praise)\n- Routines that will follow: partner talk, retrieval, homework\n\n6. Plan snacks/lunches\n\n- What will you eat when you don't have time / don't want to do a food shop\n\n7. Plan my end of day checklist\n\n- What will I need to do at the end of every day before I want to leave"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "before-it-all-kicks-off"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/education": {
+          "label": "education",
+          "items": [
+            "before-it-all-kicks-off"
+          ],
+          "permalink": "/blog/tags/education",
+          "pages": [
+            {
+              "items": [
+                "before-it-all-kicks-off"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/education",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

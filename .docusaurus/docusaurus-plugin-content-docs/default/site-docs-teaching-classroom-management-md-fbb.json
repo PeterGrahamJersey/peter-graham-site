@@ -1,0 +1,26 @@
+{
+  "unversionedId": "teaching/classroom-management",
+  "id": "teaching/classroom-management",
+  "title": "Classroom Management",
+  "description": "Having a plan is your main advantage in classroom management (one of the areas I, and I think everyone struggles with). Here is my current plan.",
+  "source": "@site/docs/teaching/classroom-management.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/classroom-management",
+  "permalink": "/docs/teaching/classroom-management",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standard Lesson",
+    "permalink": "/docs/teaching/standard-lesson"
+  },
+  "next": {
+    "title": "Go-to sites",
+    "permalink": "/docs/teaching/go-to-sites"
+  }
+}

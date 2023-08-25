@@ -1,0 +1,26 @@
+{
+  "unversionedId": "teaching/go-to-sites",
+  "id": "teaching/go-to-sites",
+  "title": "Go-to sites",
+  "description": "Do Nows",
+  "source": "@site/docs/teaching/go-to-sites.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/go-to-sites",
+  "permalink": "/docs/teaching/go-to-sites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Classroom Management",
+    "permalink": "/docs/teaching/classroom-management"
+  },
+  "next": {
+    "title": "Planning",
+    "permalink": "/docs/teaching/planning"
+  }
+}

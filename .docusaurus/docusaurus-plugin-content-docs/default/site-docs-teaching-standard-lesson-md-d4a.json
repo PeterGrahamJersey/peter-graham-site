@@ -1,0 +1,26 @@
+{
+  "unversionedId": "teaching/standard-lesson",
+  "id": "teaching/standard-lesson",
+  "title": "Standard Lesson",
+  "description": "- Do Now",
+  "source": "@site/docs/teaching/standard-lesson.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/standard-lesson",
+  "permalink": "/docs/teaching/standard-lesson",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teaching",
+    "permalink": "/docs/category/teaching"
+  },
+  "next": {
+    "title": "Classroom Management",
+    "permalink": "/docs/teaching/classroom-management"
+  }
+}

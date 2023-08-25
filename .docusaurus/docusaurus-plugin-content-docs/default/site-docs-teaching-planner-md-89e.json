@@ -1,0 +1,22 @@
+{
+  "unversionedId": "teaching/planner",
+  "id": "teaching/planner",
+  "title": "Planner",
+  "description": "Organisation is essential as a teacher. Here's how I've set up my planner.",
+  "source": "@site/docs/teaching/planner.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/planner",
+  "permalink": "/docs/teaching/planner",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planning",
+    "permalink": "/docs/teaching/planning"
+  }
+}

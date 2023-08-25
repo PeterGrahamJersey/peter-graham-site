@@ -1,0 +1,114 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+
+ Further guidacne: https://theochu.com/docusaurus/styling/
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #a03376;
+  --ifm-color-primary-dark: #881e5b;
+  --ifm-color-primary-darker: #711045;
+  --ifm-color-primary-darkest: #590733;
+  --ifm-color-primary-light: #b85295;
+  --ifm-color-primary-lighter: #d07cb7;
+  --ifm-color-primary-lightest: #db96ca;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #b85596;
+  --ifm-color-primary-dark: #a03275;
+  --ifm-color-primary-darker: #88215d;
+  --ifm-color-primary-darkest: #711549;
+  --ifm-color-primary-light: #d088bc;
+  --ifm-color-primary-lighter: #e7bcde;
+  --ifm-color-primary-lightest: #fff2fd;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+/* Vertical Grid font stuff */
+/* html, .root {
+  font-size: 18px;
+  line-height: 25px;
+} */
+.markdown {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  max-width: 560px;
+  margin: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Serif', serif;
+}
+h1, .h1 {
+  font-size: 76px;
+  line-height: 100px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+h2, .h2 {
+  font-size: 47px;
+  line-height: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.card>h2 {
+  margin-top: 0px;
+}
+
+h3, .h3 {
+  font-size: 29px;
+  line-height: 50px;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+h4, .h4 {
+  font-size: 18px;
+  line-height: 25px;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+h5, .h5 {
+  font-size: 18px;
+  line-height: 25px;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+p, ul, ol, pre, table, blockquote {
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/* Let's make sure all's aligned */
+hr, .hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+/* a, b, i, strong, em, small, code {
+  line-height: 0;
+} */
+sub, sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Teaching",
+  "description": "My current approach to teaching",
+  "slug": "/category/teaching",
+  "permalink": "/docs/category/teaching",
+  "navigation": {
+    "next": {
+      "title": "Standard Lesson",
+      "permalink": "/docs/teaching/standard-lesson"
+    }
+  }
+}
