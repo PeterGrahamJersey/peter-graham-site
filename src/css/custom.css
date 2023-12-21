@@ -6,8 +6,8 @@
  Further guidacne: https://theochu.com/docusaurus/styling/
  */
 
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -41,14 +41,14 @@
   line-height: 25px;
 } */
 .markdown {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Quattrocento Sans', sans-serif;
   font-size: 18px;
   line-height: 25px;
   max-width: 560px;
   margin: auto;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'PT Serif', serif;
+  font-family: 'Quattrocento', serif;
 }
 h1, .h1 {
   font-size: 76px;
