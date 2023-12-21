@@ -1,97 +1,140 @@
 {
-  "/blog-007": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-da2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "ec823ea3"
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
+    }
+  },
+  "/__docusaurus/debug/config-559": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
+    }
+  },
+  "/__docusaurus/debug/content-9e3": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-338": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
+    }
+  },
+  "/__docusaurus/debug/metadata-a45": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
+    }
+  },
+  "/__docusaurus/debug/registry-e3a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
+    }
+  },
+  "/__docusaurus/debug/routes-12f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-0-a-dbb"
+    }
+  },
+  "/blog-007": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogec-8-9b6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "c3b7c855"
+        "content": "content---blogc-3-b-66a"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/archive-e7b": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "ec823ea3"
+      "plugin": "plugin---blogec-8-9b6"
     },
-    "archive": "b2f554cd"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/before-it-all-kicks-off-c72": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "ec823ea3"
+      "plugin": "plugin---blogec-8-9b6"
     },
-    "sidebar": "814f3328",
-    "content": "5c5f7e74"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-before-it-all-kicks-off-5-c-5-1e0"
   },
   "/blog/tags-889": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "ec823ea3"
+      "plugin": "plugin---blogec-8-9b6"
     },
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/education-8ed": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "ec823ea3"
+      "plugin": "plugin---blogec-8-9b6"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "c3b7c855"
+        "content": "content---blogc-3-b-66a"
       }
     ],
-    "tag": "e175f9f3",
-    "listMetadata": "f77b4e82"
+    "tag": "tag---blog-tags-educatione-17-55a",
+    "listMetadata": "listMetadata---blog-tags-educationf-77-e58"
   },
   "/markdown-page-271": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "2a2b60d5"
+      "plugin": "plugin---markdown-page-2-a-2-572"
     },
-    "content": "393be207"
+    "content": "content---markdown-page-393-028"
   },
   "/docs-644": {
-    "__comp": "1be78505",
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "83c973d3"
+      "plugin": "plugin---docs-83-c-ed9"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/category/teaching-5dd": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "9616db7e"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-teaching-961-e57"
   },
   "/docs/teaching/classroom-management-834": {
-    "__comp": "17896441",
-    "content": "fbbed4c4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-classroom-managementfbb-235"
   },
   "/docs/teaching/go-to-sites-244": {
-    "__comp": "17896441",
-    "content": "62215183"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-go-to-sites-622-de7"
   },
   "/docs/teaching/planner-8a6": {
-    "__comp": "17896441",
-    "content": "89eb9426"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-planner-89-e-bd5"
   },
   "/docs/teaching/planning-708": {
-    "__comp": "17896441",
-    "content": "f2fbce96"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-planningf-2-f-d58"
   },
   "/docs/teaching/standard-lesson-dfa": {
-    "__comp": "17896441",
-    "content": "d4ab2735"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-standard-lessond-4-a-8ad"
   },
   "/-e31": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "2a2b60d5"
+      "plugin": "plugin---markdown-page-2-a-2-572"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

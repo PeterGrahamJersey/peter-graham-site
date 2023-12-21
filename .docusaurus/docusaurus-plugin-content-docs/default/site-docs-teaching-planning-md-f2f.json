@@ -10,17 +10,17 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Go-to sites",
-    "permalink": "/docs/teaching/go-to-sites"
+    "title": "Standard Lesson",
+    "permalink": "/docs/teaching/standard-lesson"
   },
   "next": {
-    "title": "Planner",
-    "permalink": "/docs/teaching/planner"
+    "title": "Classroom Management",
+    "permalink": "/docs/teaching/classroom-management"
   }
 }

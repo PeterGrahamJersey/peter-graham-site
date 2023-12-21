@@ -10,9 +10,9 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/docs/teaching/classroom-management"
   },
   "next": {
-    "title": "Planning",
-    "permalink": "/docs/teaching/planning"
+    "title": "Planner",
+    "permalink": "/docs/teaching/planner"
   }
 }

@@ -10,14 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Standard Lesson",
-    "permalink": "/docs/teaching/standard-lesson"
+    "title": "Planning",
+    "permalink": "/docs/teaching/planning"
   },
   "next": {
     "title": "Go-to sites",

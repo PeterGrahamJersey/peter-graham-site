@@ -29,14 +29,14 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Standard Lesson",
-                "permalink": "/docs/teaching/standard-lesson"
+                "title": "Planning",
+                "permalink": "/docs/teaching/planning"
               },
               "next": {
                 "title": "Go-to sites",
@@ -55,9 +55,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -65,8 +65,8 @@
                 "permalink": "/docs/teaching/classroom-management"
               },
               "next": {
-                "title": "Planning",
-                "permalink": "/docs/teaching/planning"
+                "title": "Planner",
+                "permalink": "/docs/teaching/planner"
               }
             },
             {
@@ -87,8 +87,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Planning",
-                "permalink": "/docs/teaching/planning"
+                "title": "Go-to sites",
+                "permalink": "/docs/teaching/go-to-sites"
               }
             },
             {
@@ -103,18 +103,18 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Go-to sites",
-                "permalink": "/docs/teaching/go-to-sites"
+                "title": "Standard Lesson",
+                "permalink": "/docs/teaching/standard-lesson"
               },
               "next": {
-                "title": "Planner",
-                "permalink": "/docs/teaching/planner"
+                "title": "Classroom Management",
+                "permalink": "/docs/teaching/classroom-management"
               }
             },
             {
@@ -139,8 +139,8 @@
                 "permalink": "/docs/category/teaching"
               },
               "next": {
-                "title": "Classroom Management",
-                "permalink": "/docs/teaching/classroom-management"
+                "title": "Planning",
+                "permalink": "/docs/teaching/planning"
               }
             }
           ],
@@ -159,15 +159,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "teaching/planning"
+                  },
+                  {
+                    "type": "doc",
                     "id": "teaching/classroom-management"
                   },
                   {
                     "type": "doc",
                     "id": "teaching/go-to-sites"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "teaching/planning"
                   },
                   {
                     "type": "doc",

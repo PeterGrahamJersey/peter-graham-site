@@ -23,6 +23,12 @@
           },
           {
             "type": "link",
+            "label": "Planning",
+            "href": "/docs/teaching/planning",
+            "docId": "teaching/planning"
+          },
+          {
+            "type": "link",
             "label": "Classroom Management",
             "href": "/docs/teaching/classroom-management",
             "docId": "teaching/classroom-management"
@@ -32,12 +38,6 @@
             "label": "Go-to sites",
             "href": "/docs/teaching/go-to-sites",
             "docId": "teaching/go-to-sites"
-          },
-          {
-            "type": "link",
-            "label": "Planning",
-            "href": "/docs/teaching/planning",
-            "docId": "teaching/planning"
           },
           {
             "type": "link",

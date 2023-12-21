@@ -57,10 +57,6 @@ const config = {
       image: 'img/social-card.png',
       navbar: {
         title: 'Peter Graham',
-        logo: {
-          alt: 'Peter Graham Logo',
-          src: 'img/peter.png',
-        },
         items: [
           {
             type: 'docSidebar',
@@ -69,6 +65,11 @@ const config = {
             label: 'Approach',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'mailto:petergrahamsite@gmail.com',
+            label: 'Contact',
+            position: 'left',
+          },
           {
             href: 'https://arcaneatlas.games',
             label: 'Arcane Atlas Games',
@@ -83,38 +84,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Projects',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'Arcane Atlas Games',
-                href: 'https://arcaneatlas.games',
-              },
-              {
-                label: 'Tarsia Maker',
-                href: 'https://tarsiamaker.co.uk',
-              },
-            ],
-          },
-          {
-            title: 'Social',
-            items: [
-              {
-                label: 'Email Me',
-                href: 'mailto:petergrahamjerseysite@gmail.co.uk',
-              },
-              {
-                label: 'Goodreads',
-                href: 'https://goodreads.com/petergrahamjersey',
-              }
-            ],
-          }
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Peter Graham. Built with Docusaurus.`,
       },
       prism: {
