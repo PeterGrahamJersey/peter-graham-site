@@ -1,6 +1,38 @@
 {
   "blogPosts": [
     {
+      "id": "week-3-motivating-students",
+      "metadata": {
+        "permalink": "/teacher/week-3-motivating-students",
+        "source": "@site/blog/2023-09-25-week-3.md",
+        "title": "Week 3 - motivating students",
+        "description": "How do you motivate those who choose to just do nothing?",
+        "date": "2023-09-25T00:00:00.000Z",
+        "formattedDate": "September 25, 2023",
+        "tags": [
+          {
+            "label": "education",
+            "permalink": "/teacher/tags/education"
+          }
+        ],
+        "readingTime": 1.665,
+        "hasTruncateMarker": true,
+        "authors": [],
+        "frontMatter": {
+          "slug": "week-3-motivating-students",
+          "title": "Week 3 - motivating students",
+          "tags": [
+            "education"
+          ]
+        },
+        "nextItem": {
+          "title": "Week 2 - over-planning",
+          "permalink": "/teacher/week-2-over-planning"
+        }
+      },
+      "content": "How do you motivate those who choose to just do nothing?\n\n<!--truncate-->\n\n### What is working?\n- Not writing consequences on the board (I think), though behaviour has become a bit more challenging\n- Checklists for start / end lesson things to do\n- Digital planner\n- Boundaries - last week\n- My ability to deliver a 5-period day and keep smiling\n- Oat Milk in the maths office\n\n### What needs work?\n- Planning and boundaries\n- Higher expectations for work?\n- Coaching point: saving time when handing out sheets\n\nThe planning remains the biggest challenge. Last week, I managed to stick to the  working hours that I set myself and felt so much better. But it just takes one day to feel significantly worst. After a v busy weekend (wedding + tough mudder) the start of this week feels out of control again. It feels like I spent too long on Friday thinking about how to approach units I hadn't taught before and instead I should've just used  that time to churn out lessons as quickly as possible. It also feels like there's no time to second guess any of your choices, but I doubt every choice that I make when it comes to planning.\n\nI'm experimenting with delivering the pre-planned lessons almost exactly as they are for my y7 classes, so I get a better sense of which bits I'd adapt. This is mostly working for the higher set Y7's but still feels limited on the quantity front of basics / processes.\n\nUnsure how to support students that choose not to do any work at all. Some options:\n- 'Parking' - might benefit other students, seems unlikely to develop any sort of motivation\n- Contact home - delicate balance of my job to figure it out vs home knowing that student much better than I ever will, time consuming\n- Speak to other teachers - time consuming\n- Seating plan - isolate if it's them or the people they're near"
+    },
+    {
       "id": "week-2-over-planning",
       "metadata": {
         "permalink": "/teacher/week-2-over-planning",
@@ -24,6 +56,10 @@
           "tags": [
             "education"
           ]
+        },
+        "prevItem": {
+          "title": "Week 3 - motivating students",
+          "permalink": "/teacher/week-3-motivating-students"
         },
         "nextItem": {
           "title": "Week 1 - preparation review",

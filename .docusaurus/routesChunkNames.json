@@ -77,13 +77,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/teacher-562": {
+  "/teacher-832": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---teacherec-8-bdb"
     },
     "sidebar": "sidebar---teacher-814-914",
     "items": [
+      {
+        "content": "content---teacher-433-94c"
+      },
       {
         "content": "content---teacher-0-fb-62c"
       },
@@ -119,13 +122,16 @@
     "sidebar": "sidebar---teacher-814-914",
     "tags": "tags---teacher-tagsa-12-c3e"
   },
-  "/teacher/tags/education-811": {
+  "/teacher/tags/education-2ab": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---teacherec-8-bdb"
     },
     "sidebar": "sidebar---teacher-814-914",
     "items": [
+      {
+        "content": "content---teacher-433-94c"
+      },
       {
         "content": "content---teacher-0-fb-62c"
       },
@@ -154,6 +160,14 @@
     },
     "sidebar": "sidebar---teacher-814-914",
     "content": "content---teacher-week-2-over-planning-19-f-2a1"
+  },
+  "/teacher/week-3-motivating-students-562": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-week-2-over-planningb-5-e-fcc"
   },
   "/docs-644": {
     "__comp": "__comp---theme-doc-page-1-be-9be",

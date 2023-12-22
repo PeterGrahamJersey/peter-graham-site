@@ -59,7 +59,7 @@ export default [
   },
   {
     path: '/teacher',
-    component: ComponentCreator('/teacher', '562'),
+    component: ComponentCreator('/teacher', '832'),
     exact: true
   },
   {
@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/teacher/tags/education',
-    component: ComponentCreator('/teacher/tags/education', '811'),
+    component: ComponentCreator('/teacher/tags/education', '2ab'),
     exact: true
   },
   {
@@ -90,6 +90,11 @@ export default [
   {
     path: '/teacher/week-2-over-planning',
     component: ComponentCreator('/teacher/week-2-over-planning', 'e30'),
+    exact: true
+  },
+  {
+    path: '/teacher/week-3-motivating-students',
+    component: ComponentCreator('/teacher/week-3-motivating-students', '562'),
     exact: true
   },
   {
