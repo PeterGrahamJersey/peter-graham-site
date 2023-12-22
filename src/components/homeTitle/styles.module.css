@@ -1,7 +1,7 @@
 .equation {
     display:inline-block;
     font-family: 'Josefin Sans', sans;
-    font-size: calc(88px + 72 * (100vw - 800px) / 800);
+    font-size: calc(88px + 72 * (100vw - 800px) / 800); /* taken from a blog post + checked by eye */
     line-height: 1em;
     letter-spacing: -0.02em;
     margin: 0.5em;
