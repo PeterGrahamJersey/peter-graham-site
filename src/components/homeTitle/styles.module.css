@@ -2,13 +2,19 @@
     display:inline-block;
     font-family: 'Quattrocento', sans;
     font-size: calc(88px + 72 * (100vw - 800px) / 800);
-    line-height: 1.1em;
+    line-height: 1em;
     letter-spacing: -0.01em;
+    margin-right: 0.5em;
+    margin-top:0.5em
 }
 
+.equation .lastNumber {
+    margin-left: 1em;
+    display: block;
+    text-align: right;
+}
 .equation .number {
     display: block;
-    margin-left: 1em;
     text-align: right;
 }
 
@@ -21,4 +27,6 @@
     height: 0;
     border-bottom: solid 0.02em black;
     overflow: hidden;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
 }

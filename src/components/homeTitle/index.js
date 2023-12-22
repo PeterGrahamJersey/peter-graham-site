@@ -7,7 +7,7 @@ export default function HomeTitle() {
         <div className={styles.equation}>
             <div className={styles.number}>Teacher</div>
             <div className={styles.operand}>+</div>
-            <div className={styles.number}>Designer</div>
+            <div className={styles.lastNumber}>Designer</div>
             <div className={styles.equals}></div>
             <div className={styles.number}>Peter Graham</div>
         </div>

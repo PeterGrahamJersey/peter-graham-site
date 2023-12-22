@@ -14,7 +14,9 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="Thoughts and blog on education and design.">
       <main>
-        <HomeTitle/>
+        <div className={styles.homeTitleContainer}>
+          <HomeTitle/>
+        </div>
       </main>
     </Layout>
   );
