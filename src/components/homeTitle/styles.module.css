@@ -1,9 +1,9 @@
 .equation {
     display:inline-block;
     font-family: 'Quattrocento', sans;
-    font-size: 150px;
-    line-height: 180px;
-
+    font-size: calc(88px + 72 * (100vw - 800px) / 800);
+    line-height: 1.1em;
+    letter-spacing: -0.01em;
 }
 
 .equation .number {
