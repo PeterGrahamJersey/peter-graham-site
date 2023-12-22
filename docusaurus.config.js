@@ -83,7 +83,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         copyright: `Copyright © ${new Date().getFullYear()} Peter Graham. Built with Docusaurus.`,
       },
       prism: {
