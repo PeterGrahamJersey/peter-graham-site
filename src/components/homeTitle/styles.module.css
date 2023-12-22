@@ -1,0 +1,24 @@
+.equation {
+    display:inline-block;
+    font-family: 'Quattrocento', sans;
+    font-size: 150px;
+    line-height: 180px;
+
+}
+
+.equation .number {
+    display: block;
+    margin-left: 1em;
+    text-align: right;
+}
+
+.equation .operand {
+    float: left;
+}
+
+.equation .equals {
+    display: block;
+    height: 0;
+    border-bottom: solid 0.02em black;
+    overflow: hidden;
+}

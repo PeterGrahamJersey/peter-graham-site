@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import HomeTitle from '../components/homeTitle'
 
 import styles from './index.module.css';
 
@@ -13,13 +14,7 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="Thoughts and blog on education and design.">
       <main>
-        <div className="container">
-          <div>Teacher</div>
-          <div>+</div>
-          <div>Designer</div>
-          <div></div>
-          <div>Peter Graham</div>
-        </div>
+        <HomeTitle/>
       </main>
     </Layout>
   );

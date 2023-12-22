@@ -72,7 +72,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "copyright": "Copyright © 2023 Peter Graham. Built with Docusaurus.",
       "links": []
     },
