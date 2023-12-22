@@ -42,55 +42,33 @@
       "plugin": "plugin---docusaurus-debuge-0-a-dbb"
     }
   },
-  "/blog-007": {
+  "/designer-a77": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogec-8-9b6"
+      "plugin": "plugin---designer-120-3db"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---designer-0-c-6-129",
     "items": [
       {
-        "content": "content---blogc-3-b-66a"
+        "content": "content---designerd-6-b-7a6"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---designer-4-d-3-146"
   },
-  "/blog/archive-e7b": {
+  "/designer/archive-34a": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogec-8-9b6"
+      "plugin": "plugin---designer-120-3db"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---designer-archive-06-b-e7b"
   },
-  "/blog/before-it-all-kicks-off-c72": {
+  "/designer/fist-shriek-d5b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogec-8-9b6"
+      "plugin": "plugin---designer-120-3db"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-before-it-all-kicks-off-5-c-5-1e0"
-  },
-  "/blog/tags-889": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---blogec-8-9b6"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
-  },
-  "/blog/tags/education-8ed": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blogec-8-9b6"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogc-3-b-66a"
-      }
-    ],
-    "tag": "tag---blog-tags-educatione-17-55a",
-    "listMetadata": "listMetadata---blog-tags-educationf-77-e58"
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-before-it-all-kicks-off-56-c-b7b"
   },
   "/markdown-page-271": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
@@ -98,6 +76,84 @@
       "plugin": "plugin---markdown-page-2-a-2-572"
     },
     "content": "content---markdown-page-393-028"
+  },
+  "/teacher-fbc": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "items": [
+      {
+        "content": "content---teacher-0-fb-62c"
+      },
+      {
+        "content": "content---teacherecc-653"
+      },
+      {
+        "content": "content---teacherc-3-b-854"
+      }
+    ],
+    "metadata": "metadata---teacher-6-b-2-c1a"
+  },
+  "/teacher/archive-42f": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "archive": "archive---teacher-archive-573-882"
+  },
+  "/teacher/before-it-all-kicks-off-636": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-before-it-all-kicks-off-5-c-5-a89"
+  },
+  "/teacher/tags-133": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "tags": "tags---teacher-tagsa-12-c3e"
+  },
+  "/teacher/tags/education-a46": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "items": [
+      {
+        "content": "content---teacher-0-fb-62c"
+      },
+      {
+        "content": "content---teacherecc-653"
+      },
+      {
+        "content": "content---teacherc-3-b-854"
+      }
+    ],
+    "tag": "tag---teacher-tags-educatione-9-e-ce9",
+    "listMetadata": "listMetadata---teacher-tags-education-19-a-9f1"
+  },
+  "/teacher/week-1-preparation-review-8f0": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-week-1-preparation-review-7-ed-e58"
+  },
+  "/teacher/week-2-over-planning-e30": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---teacherec-8-bdb"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-week-2-over-planning-19-f-2a1"
   },
   "/docs-644": {
     "__comp": "__comp---theme-doc-page-1-be-9be",

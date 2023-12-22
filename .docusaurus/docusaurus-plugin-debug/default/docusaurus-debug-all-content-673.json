@@ -192,9 +192,77 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "week-2-over-planning",
+          "metadata": {
+            "permalink": "/teacher/week-2-over-planning",
+            "source": "@site/blog/2023-09-17-week-2.md",
+            "title": "Week 2 - over-planning",
+            "description": "2 weeks down. The job is fun, the planning was overwhelming this week.",
+            "date": "2023-09-17T00:00:00.000Z",
+            "formattedDate": "September 17, 2023",
+            "tags": [
+              {
+                "label": "education",
+                "permalink": "/teacher/tags/education"
+              }
+            ],
+            "readingTime": 1.325,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "week-2-over-planning",
+              "title": "Week 2 - over-planning",
+              "tags": [
+                "education"
+              ]
+            },
+            "nextItem": {
+              "title": "Week 1 - preparation review",
+              "permalink": "/teacher/week-1-preparation-review"
+            }
+          },
+          "content": "2 weeks down. The job is fun, the planning was overwhelming this week.\n\n## WWW / EBI\n### What is working? \n- Not writing consequences on the board\n- Digital planner\n- Dedicating time for phone calls home\n- 1:1 '30s interventions'\n- \"I'm not changing seating plans this week\"\n\n### What needs work?\n- Planning & boundaries\n- Consistent expectations\n- When to 1:1 intervene vs when to use a name across the class\n- 'recognition board' / a more consistent approach to praise\n\n## Planning\nPlanning was something that I worked on a lot during the PGCE, but it really feels like I've regressed. Towards the end of the PGCE it took me 30-40 mins to plan a lesson, but now I'm back to well over an hour. This is partly due to not setting effective boundaries, planning is a challenge as it expands to fill whatever time you give it. This week it ate up pretty much all of my personal and social time, leaving me exhausted by the end of the week. Even worse, planning while tired is slow and leads to lessons that aren't any better than ones you spend half the time on.\n\n### My new plan:\n- Set myself 'working hours' - I will be in school 0700-17:30 (4pm if I have an appointment or it's a Friday) and won't work at home during the week.\n- Max 3 hours of work on a weekend.\n- The goal is to reduce these further, but even sticking to them would be a drastic improvement.\n\nLet's see how it goes."
+        },
+        {
+          "id": "week-1-preparation-review",
+          "metadata": {
+            "permalink": "/teacher/week-1-preparation-review",
+            "source": "@site/blog/2023-09-09-week-1.md",
+            "title": "Week 1 - preparation review",
+            "description": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didnt?",
+            "date": "2023-09-09T00:00:00.000Z",
+            "formattedDate": "September 9, 2023",
+            "tags": [
+              {
+                "label": "education",
+                "permalink": "/teacher/tags/education"
+              }
+            ],
+            "readingTime": 1.89,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "week-1-preparation-review",
+              "title": "Week 1 - preparation review",
+              "tags": [
+                "education"
+              ]
+            },
+            "prevItem": {
+              "title": "Week 2 - over-planning",
+              "permalink": "/teacher/week-2-over-planning"
+            },
+            "nextItem": {
+              "title": "Before it all kicks off",
+              "permalink": "/teacher/before-it-all-kicks-off"
+            }
+          },
+          "content": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didnt?\n\n## Classroom\n- Whiteboard packs working much smoother than whiteboards in a box\n- Added a glue stick to the whiteboard packs\n- I need to remember to set clearer expectations for when the whiteboards  go away in-between tasks\n- Needed a tub for each class, thought I didn’t but should’ve listened.\n\n## Planner\n- Working well\n- Definitely prefer writing consequences in it w/ a reason instead of on the board\n- So much information to keep track of, finding my inbox is much clearer when I use a digital planner\n- Haven’t planned my frees yet, going to do this with a bit more of a sense of how my weeks work\n\n## 1st week of lessons\n- Would’ve helped, but I couldn’t bring myself to do this in that final weekend\n- Anything is a win - I had 1 year group's lessons planned which helped\n\n## Seating plans\n- I think I started to adapt these too soon, could’ve maybe let them stay in that place for a week before taking on any requests\n\n## Routines\n- The basics are there but I need to tighten them up, need to rehearse them next week\n- I sort of introduced finger voting, but didn’t introduce it very well\n- I think my entries are pretty solid, but I’m spending a bit too long on the do now\n- Volume is my main area to get clearer in my head\n- Behaviour / Praise - recognition board was too much of a challenge in week 1 before knowing any students names, going to push this in week 2\n\n## Lunches\n- Having a few in school really helped, needed a snack in school for breaktime too + some oat milk\n\n## Checklists\n- Mine need some updating, but are helpful when your brain is fried\n\n## What I could’ve added:\n- Phonecalls\n- Remember to check the difficulty of worksheets - especially decimals\n- Put a bit of time in to wander round other classrooms (if you can spare the time)\n- Check all your log-ins are working - I didn’t have access to our SEN info initially"
+        },
+        {
           "id": "before-it-all-kicks-off",
           "metadata": {
-            "permalink": "/blog/before-it-all-kicks-off",
+            "permalink": "/teacher/before-it-all-kicks-off",
             "source": "@site/blog/2023-08-25-a-website.md",
             "title": "Before it all kicks off",
             "description": "What to prepare before back to school? As an ECT 1 there's a sense of peace in my own ignorance. Even with a headstart of 5 weeks before summer I've not done this before and I don't know many of the students. Seating plans are going to be guesses, and while I can (and need to) do some planning I won't know what will work for each class until I start teaching them.",
@@ -203,7 +271,7 @@
             "tags": [
               {
                 "label": "education",
-                "permalink": "/blog/tags/education"
+                "permalink": "/teacher/tags/education"
               }
             ],
             "readingTime": 1.31,
@@ -215,6 +283,10 @@
               "tags": [
                 "education"
               ]
+            },
+            "prevItem": {
+              "title": "Week 1 - preparation review",
+              "permalink": "/teacher/week-1-preparation-review"
             }
           },
           "content": "What to prepare before back to school? As an ECT 1 there's a sense of peace in my own ignorance. Even with a headstart of 5 weeks before summer I've not done this before and I don't know many of the students. Seating plans are going to be guesses, and while I can (and need to) do some planning I won't know what will work for each class until I start teaching them.\n\nAsking a few teachers got the following advice:\n\n1. Sort your classroom\n\n- If you have your own classroom, go into school and spend some time on it.\n- There won't be time on inset days to do this\n- Make sure you have a key for it\n- Make sure you've got the equipment you need\n- Get the tech (whiteboard) working\n\n2. Prepare your planner\n\n- I'm going to use a digital planner, but whatever you use, set it up now\n- Plan a free for ECT work\n- Plan at least 1/2 a free for contact home\n\n3. Plan at least your first week of lessons\n\n4. Sort your seating plans\n\nMy additions:\n\n5. Plan your routines\n\n- Routines I've chosen to start with: whiteboards, entry, exit, behaviour (focused on praise)\n- Routines that will follow: partner talk, retrieval, homework\n\n6. Plan snacks/lunches\n\n- What will you eat when you don't have time / don't want to do a food shop\n\n7. Plan my end of day checklist\n\n- What will I need to do at the end of every day before I want to leave"
@@ -223,10 +295,82 @@
       "blogListPaginated": [
         {
           "items": [
+            "week-2-over-planning",
+            "week-1-preparation-review",
             "before-it-all-kicks-off"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/teacher",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/teacher/tags/education": {
+          "label": "education",
+          "items": [
+            "week-2-over-planning",
+            "week-1-preparation-review",
+            "before-it-all-kicks-off"
+          ],
+          "permalink": "/teacher/tags/education",
+          "pages": [
+            {
+              "items": [
+                "week-2-over-planning",
+                "week-1-preparation-review",
+                "before-it-all-kicks-off"
+              ],
+              "metadata": {
+                "permalink": "/teacher/tags/education",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 3,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/teacher/tags"
+    },
+    "second-blog": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "fist-shriek",
+          "metadata": {
+            "permalink": "/designer/fist-shriek",
+            "source": "@site/blogDesigner/2023-08-25-a-website.md",
+            "title": "FIST Shriek",
+            "description": "IMAGEs OF FIST SHRIEK",
+            "date": "2023-08-25T00:00:00.000Z",
+            "formattedDate": "August 25, 2023",
+            "tags": [],
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "fist-shriek",
+              "title": "FIST Shriek"
+            }
+          },
+          "content": "IMAGEs OF FIST SHRIEK"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "fist-shriek"
+          ],
+          "metadata": {
+            "permalink": "/designer",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -236,32 +380,8 @@
           }
         }
       ],
-      "blogTags": {
-        "/blog/tags/education": {
-          "label": "education",
-          "items": [
-            "before-it-all-kicks-off"
-          ],
-          "permalink": "/blog/tags/education",
-          "pages": [
-            {
-              "items": [
-                "before-it-all-kicks-off"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/education",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        }
-      },
-      "blogTagsListPath": "/blog/tags"
+      "blogTags": {},
+      "blogTagsListPath": "/designer/tags"
     }
   },
   "docusaurus-plugin-content-pages": {

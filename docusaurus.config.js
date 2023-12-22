@@ -41,6 +41,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          routeBasePath: '/teacher',
           showReadingTime: true,
         },
         theme: {
@@ -59,15 +60,18 @@ const config = {
         title: 'Peter Graham',
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Approach',
+            to: '/teacher', 
+            label: 'teacher', 
+            position: 'left'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/designer', 
+            label: 'designer', 
+            position: 'left'
+          },
           {
             href: 'mailto:petergrahamsite@gmail.com',
-            label: 'Contact',
+            label: 'contact',
             position: 'left',
           },
           {
@@ -91,6 +95,28 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    plugins: [
+      [
+        '@docusaurus/plugin-content-blog',
+        {
+          /**
+           * Required for any multi-instance plugin
+           */
+          id: 'second-blog',
+          /**
+           * URL route for the blog section of your site.
+           * *DO NOT* include a trailing slash.
+           */
+          routeBasePath: 'designer',
+          /**
+           * Path to data on filesystem relative to site dir.
+           */
+          path: './blogDesigner',
+          showReadingTime: false
+        },
+      ],
+    ],
 };
 
 module.exports = config;

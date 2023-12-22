@@ -7,9 +7,7 @@
     margin: 0.5em;
 }
 
-100vw = 688.888888888 
-
-@media screen and (min-width: 1488px) { 
+@media screen and (min-width: 1400px) { 
     /* Max font size for wide screens*/
     .equation {
         font-size: 150px;

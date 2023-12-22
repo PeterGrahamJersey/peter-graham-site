@@ -2,8 +2,16 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Week 2 - over-planning",
+      "permalink": "/teacher/week-2-over-planning"
+    },
+    {
+      "title": "Week 1 - preparation review",
+      "permalink": "/teacher/week-1-preparation-review"
+    },
+    {
       "title": "Before it all kicks off",
-      "permalink": "/blog/before-it-all-kicks-off"
+      "permalink": "/teacher/before-it-all-kicks-off"
     }
   ]
 }

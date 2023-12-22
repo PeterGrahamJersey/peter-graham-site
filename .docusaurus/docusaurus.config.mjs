@@ -29,6 +29,7 @@ export default {
           "sidebarPath": "/Users/petergraham/Documents/Projects/peter-graham-site/sidebars.js"
         },
         "blog": {
+          "routeBasePath": "/teacher",
           "showReadingTime": true
         },
         "theme": {
@@ -43,19 +44,18 @@ export default {
       "title": "Peter Graham",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Approach"
+          "to": "/teacher",
+          "label": "teacher",
+          "position": "left"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "/designer",
+          "label": "designer",
           "position": "left"
         },
         {
           "href": "mailto:petergrahamsite@gmail.com",
-          "label": "Contact",
+          "label": "contact",
           "position": "left"
         },
         {
@@ -298,13 +298,23 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        "id": "second-blog",
+        "routeBasePath": "designer",
+        "path": "./blogDesigner",
+        "showReadingTime": false
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

@@ -1,0 +1,23 @@
+{
+  "blogPosts": [
+    {
+      "id": "fist-shriek",
+      "metadata": {
+        "permalink": "/designer/fist-shriek",
+        "source": "@site/blogDesigner/2023-08-25-a-website.md",
+        "title": "FIST Shriek",
+        "description": "IMAGEs OF FIST SHRIEK",
+        "date": "2023-08-25T00:00:00.000Z",
+        "formattedDate": "August 25, 2023",
+        "tags": [],
+        "hasTruncateMarker": false,
+        "authors": [],
+        "frontMatter": {
+          "slug": "fist-shriek",
+          "title": "FIST Shriek"
+        }
+      },
+      "content": "IMAGEs OF FIST SHRIEK"
+    }
+  ]
+}

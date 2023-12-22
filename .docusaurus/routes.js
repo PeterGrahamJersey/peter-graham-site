@@ -38,33 +38,58 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '007'),
+    path: '/designer',
+    component: ComponentCreator('/designer', 'a77'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'e7b'),
+    path: '/designer/archive',
+    component: ComponentCreator('/designer/archive', '34a'),
     exact: true
   },
   {
-    path: '/blog/before-it-all-kicks-off',
-    component: ComponentCreator('/blog/before-it-all-kicks-off', 'c72'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '889'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/education',
-    component: ComponentCreator('/blog/tags/education', '8ed'),
+    path: '/designer/fist-shriek',
+    component: ComponentCreator('/designer/fist-shriek', 'd5b'),
     exact: true
   },
   {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '271'),
+    exact: true
+  },
+  {
+    path: '/teacher',
+    component: ComponentCreator('/teacher', 'fbc'),
+    exact: true
+  },
+  {
+    path: '/teacher/archive',
+    component: ComponentCreator('/teacher/archive', '42f'),
+    exact: true
+  },
+  {
+    path: '/teacher/before-it-all-kicks-off',
+    component: ComponentCreator('/teacher/before-it-all-kicks-off', '636'),
+    exact: true
+  },
+  {
+    path: '/teacher/tags',
+    component: ComponentCreator('/teacher/tags', '133'),
+    exact: true
+  },
+  {
+    path: '/teacher/tags/education',
+    component: ComponentCreator('/teacher/tags/education', 'a46'),
+    exact: true
+  },
+  {
+    path: '/teacher/week-1-preparation-review',
+    component: ComponentCreator('/teacher/week-1-preparation-review', '8f0'),
+    exact: true
+  },
+  {
+    path: '/teacher/week-2-over-planning',
+    component: ComponentCreator('/teacher/week-2-over-planning', 'e30'),
     exact: true
   },
   {
