@@ -1,11 +1,19 @@
 .equation {
     display:inline-block;
-    font-family: 'Quattrocento', sans;
+    font-family: 'Josefin Sans', sans;
     font-size: calc(88px + 72 * (100vw - 800px) / 800);
     line-height: 1em;
-    letter-spacing: -0.01em;
-    margin-right: 0.5em;
-    margin-top:0.5em
+    letter-spacing: -0.02em;
+    margin: 0.5em;
+}
+
+100vw = 688.888888888 
+
+@media screen and (min-width: 1488px) { 
+    /* Max font size for wide screens*/
+    .equation {
+        font-size: 150px;
+    }
 }
 
 .equation .lastNumber {
@@ -17,6 +25,11 @@
     display: block;
     text-align: right;
 }
+.equation .answer {
+    display: block;
+    text-align: right;
+    letter-spacing: 0.04em;
+}
 
 .equation .operand {
     float: left;
@@ -26,8 +39,8 @@
 .equation .equals {
     display: block;
     height: 0;
-    border-bottom: solid 0.02em var(--ifm-color-primary);
+    border-bottom: solid 0.03em var(--ifm-color-primary);
     overflow: hidden;
     margin-top: 0.25em;
-    margin-bottom: 0.25em;
+    margin-bottom: 0.4em;
 }

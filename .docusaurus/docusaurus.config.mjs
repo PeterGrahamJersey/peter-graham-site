@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Peter Graham",
-  "tagline": "Educator | Designer | Adventurer",
+  "tagline": "Teacher + Designer, Peter Graham",
   "favicon": "img/favicon.ico",
   "url": "https://mr-graham.co.uk",
   "baseUrl": "/",
