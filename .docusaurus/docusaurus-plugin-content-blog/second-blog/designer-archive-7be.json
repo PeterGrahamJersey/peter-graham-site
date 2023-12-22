@@ -4,20 +4,20 @@
       "id": "fist-shriek",
       "metadata": {
         "permalink": "/designer/fist-shriek",
-        "source": "@site/blogDesigner/2023-08-25-a-website.md",
+        "source": "@site/blogDesigner/2023-10-29-fist-shriek/index.md",
         "title": "FIST Shriek",
-        "description": "IMAGEs OF FIST SHRIEK",
-        "date": "2023-08-25T00:00:00.000Z",
-        "formattedDate": "August 25, 2023",
+        "description": "Layout, writing and design for a supplement to the FIST TTRPG.",
+        "date": "2023-10-29T00:00:00.000Z",
+        "formattedDate": "October 29, 2023",
         "tags": [],
-        "hasTruncateMarker": false,
+        "hasTruncateMarker": true,
         "authors": [],
         "frontMatter": {
           "slug": "fist-shriek",
           "title": "FIST Shriek"
         }
       },
-      "content": "IMAGEs OF FIST SHRIEK"
+      "content": "Layout, writing and design for a supplement to the FIST TTRPG.\n\n[View on Itch](https://atlasarcane.itch.io/fist-shriek).\n\n![FIST Shriek Cover](./deatcester-itch-cover.png)\n\n<!--truncate-->\n\n\n\n![FIST Screenshot](./deathcester-demo-1.jpg)\n\n![FIST Screenshot](./deathcester-demo-2.jpg)\n\n![FIST Screenshot](./deathcester-demo-3.jpg)\n\n![FIST Screenshot](./deathcester-demo-4.jpg)"
     }
   ]
 }
