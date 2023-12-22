@@ -2,7 +2,7 @@
   "permalink": "/teacher/week-1-preparation-review",
   "source": "@site/blog/2023-09-09-week-1.md",
   "title": "Week 1 - preparation review",
-  "description": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didnt?",
+  "description": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didn't?",
   "date": "2023-09-09T00:00:00.000Z",
   "formattedDate": "September 9, 2023",
   "tags": [
@@ -11,8 +11,8 @@
       "permalink": "/teacher/tags/education"
     }
   ],
-  "readingTime": 1.89,
-  "hasTruncateMarker": false,
+  "readingTime": 1.895,
+  "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {
     "slug": "week-1-preparation-review",
