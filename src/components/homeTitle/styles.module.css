@@ -20,12 +20,13 @@
 
 .equation .operand {
     float: left;
+    color: var(--ifm-color-primary);
 }
 
 .equation .equals {
     display: block;
     height: 0;
-    border-bottom: solid 0.02em black;
+    border-bottom: solid 0.02em var(--ifm-color-primary);
     overflow: hidden;
     margin-top: 0.25em;
     margin-bottom: 0.25em;
