@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/designer',
-    component: ComponentCreator('/designer', '606'),
+    component: ComponentCreator('/designer', '3e6'),
     exact: true
   },
   {
@@ -50,6 +50,11 @@ export default [
   {
     path: '/designer/fist-shriek',
     component: ComponentCreator('/designer/fist-shriek', 'fa8'),
+    exact: true
+  },
+  {
+    path: '/designer/fist-the-only-agent-left',
+    component: ComponentCreator('/designer/fist-the-only-agent-left', '3aa'),
     exact: true
   },
   {

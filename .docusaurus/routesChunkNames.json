@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debuge-0-a-dbb"
     }
   },
-  "/designer-606": {
+  "/designer-3e6": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---designer-120-3db"
@@ -51,6 +51,9 @@
     "items": [
       {
         "content": "content---designer-7-d-6-eae"
+      },
+      {
+        "content": "content---designer-59-b-510"
       }
     ],
     "metadata": "metadata---designer-4-d-3-146"
@@ -69,6 +72,14 @@
     },
     "sidebar": "sidebar---designer-0-c-6-129",
     "content": "content---designer-fist-shriek-6-c-8-086"
+  },
+  "/designer/fist-the-only-agent-left-3aa": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---designer-120-3db"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-2023-01-10-fist-the-only-agent-leftde-2-e86"
   },
   "/markdown-page-271": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
