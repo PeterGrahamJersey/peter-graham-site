@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Peter Graham",
+  "title": "PETER GRAHAM",
   "tagline": "Teacher + Designer, Peter Graham",
   "favicon": "img/favicon.ico",
   "url": "https://mr-graham.co.uk",
@@ -41,7 +41,7 @@ export default {
   "themeConfig": {
     "image": "img/social-card.png",
     "navbar": {
-      "title": "Peter Graham",
+      "title": "PETER GRAHAM",
       "items": [
         {
           "to": "/teacher",

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Peter Graham',
+  title: 'PETER GRAHAM',
   tagline: 'Teacher + Designer, Peter Graham',
   favicon: 'img/favicon.ico',
 
@@ -57,7 +57,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.png',
       navbar: {
-        title: 'Peter Graham',
+        title: 'PETER GRAHAM',
         items: [
           {
             to: '/teacher', 
