@@ -54,7 +54,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "mailto:petergrahamsite@gmail.com",
+          "href": "mailto:petergrahamjerseysite@gmail.com",
           "label": "contact",
           "position": "left"
         },
