@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debuge-0-a-dbb"
     }
   },
-  "/designer-3e6": {
+  "/designer-fd1": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---designer-120-3db"
@@ -53,7 +53,10 @@
         "content": "content---designer-7-d-6-eae"
       },
       {
-        "content": "content---designer-59-b-510"
+        "content": "content---designerc-56-6c5"
+      },
+      {
+        "content": "content---designer-108-543"
       }
     ],
     "metadata": "metadata---designer-4-d-3-146"
@@ -73,13 +76,21 @@
     "sidebar": "sidebar---designer-0-c-6-129",
     "content": "content---designer-fist-shriek-6-c-8-086"
   },
-  "/designer/fist-the-only-agent-left-3aa": {
+  "/designer/fist-the-only-agent-left-bc8": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---designer-120-3db"
     },
     "sidebar": "sidebar---designer-0-c-6-129",
-    "content": "content---designer-2023-01-10-fist-the-only-agent-leftde-2-e86"
+    "content": "content---designer-fist-the-only-agent-left-4-e-1-5e0"
+  },
+  "/designer/haunting-d9f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---designer-120-3db"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-2022-11-10-hauntingca-2-42f"
   },
   "/markdown-page-271": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

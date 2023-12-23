@@ -1,0 +1,19 @@
+{
+  "permalink": "/designer/haunting",
+  "source": "@site/blogDesigner/2022-11-10-haunting/index.md",
+  "title": "Haunting",
+  "description": "Art and co-design for a TTRPG.",
+  "date": "2022-11-10T00:00:00.000Z",
+  "formattedDate": "November 10, 2022",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "haunting",
+    "title": "Haunting"
+  },
+  "prevItem": {
+    "title": "FIST The Only Agent Left",
+    "permalink": "/designer/fist-the-only-agent-left"
+  }
+}

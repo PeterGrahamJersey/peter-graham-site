@@ -27,11 +27,11 @@
       "id": "fist-the-only-agent-left",
       "metadata": {
         "permalink": "/designer/fist-the-only-agent-left",
-        "source": "@site/blogDesigner/2023-01-10-fist-the-only-agent-left/index.md",
+        "source": "@site/blogDesigner/2023-02-28-fist-the-only-agent-left/index.md",
         "title": "FIST The Only Agent Left",
         "description": "Layout, writing and design for a TTRPG supplement.",
-        "date": "2023-01-10T00:00:00.000Z",
-        "formattedDate": "January 10, 2023",
+        "date": "2023-02-28T00:00:00.000Z",
+        "formattedDate": "February 28, 2023",
         "tags": [],
         "hasTruncateMarker": true,
         "authors": [],
@@ -42,9 +42,36 @@
         "prevItem": {
           "title": "FIST Shriek",
           "permalink": "/designer/fist-shriek"
+        },
+        "nextItem": {
+          "title": "Haunting",
+          "permalink": "/designer/haunting"
         }
       },
       "content": "Layout, writing and design for a TTRPG supplement.\n\n[View on Itch](https://atlasarcane.itch.io/the-only-agent-left).\n\n![The Only Agent Left, blue faces with bars across their eyes surround a pink face wearing sunglasses.](./the-only-agent-left-itch-cover.jpg)\n\n<!--truncate-->\n\nFIST is a TTRPG capturing cold war sci-fi pulp action. In The Only Agent Left I wanted to capture the clumsy spy trope inspired by films like Johnny English. This was achieved mechanically by separating players into The Agent and Sidekicks. The design was inspired by the early parts of the film The Incredibles and penguin book covers. The Only Agent Left was edited by Dale Blackburn.\n\n\n![The Wheel of Fame, a flowchart-style 'map' connects various boxes labelled as parts of a casino with descriptions of what happens in each room.](./the-only-agent-left-screenshot-1.png)\n\n![A spread shows set up splitting players into The Agent and Sidekicks, the second page shows a prologue.](./the-only-agent-left-screenshot-2.png)\n\n![A spread shows an after the mission section listing various outcomes, and the introduction to the Volcano Base scenario.](./the-only-agent-left-screenshot-3.png)\n\n![A spread shows the control room with a small map and an after the mission section listing various outcomes.](./the-only-agent-left-screenshot-4.png)\n\nEarlier versions of the game used a more groovy 70's inspired design, but were redesigned due to concerns about how well the source material had aged.\n\n![International Person of Mystery, a grid of squares shows icons of a pistol, sunglasses and a watch.](./ipom-itch-cover.png)\n\n![A page shows an earlier version of a flow chart style map for the casino.](./ipom-screenshot-2.png)"
+    },
+    {
+      "id": "haunting",
+      "metadata": {
+        "permalink": "/designer/haunting",
+        "source": "@site/blogDesigner/2022-11-10-haunting/index.md",
+        "title": "Haunting",
+        "description": "Art and co-design for a TTRPG.",
+        "date": "2022-11-10T00:00:00.000Z",
+        "formattedDate": "November 10, 2022",
+        "tags": [],
+        "hasTruncateMarker": true,
+        "authors": [],
+        "frontMatter": {
+          "slug": "haunting",
+          "title": "Haunting"
+        },
+        "prevItem": {
+          "title": "FIST The Only Agent Left",
+          "permalink": "/designer/fist-the-only-agent-left"
+        }
+      },
+      "content": "Art and co-design for a TTRPG.\n\n[View on Itch](https://atlasarcane.itch.io/haunting).\n\n![Haunting, the cover of a navy-blue zine with a drawing of a haunted house on the front.](./haunting-mockup-1-cover.jpg)\n\n<!--truncate-->\n\nHaunting is a 2-player TTRPG telling the story of a haunted house across a number of inhabitants. Haunting was co-designed with Dale Blackburn. I made the cover and art for the game choosing a simple line-art style to capture distressed everyday objects and cobwebs.\n\n![Tiled drawings of everyday objects that are slighltly distressed e.g. a television showing static.](./haunting-background-tiled-art.png)\n\n![A flowchart shows the gameplay loop of Haunting, from creating the house to living out the lives of the occupants.](./haunting-gameplay-loop.png)\n\n![Occupants, a spread from the game, line-art portraits of people above a wooden floor surround the title.](./haunting-mockup-2-occupants.jpg)"
     }
   ]
 }
