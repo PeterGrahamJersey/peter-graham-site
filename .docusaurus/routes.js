@@ -39,12 +39,17 @@ export default [
   },
   {
     path: '/designer',
-    component: ComponentCreator('/designer', 'fd1'),
+    component: ComponentCreator('/designer', '889'),
     exact: true
   },
   {
     path: '/designer/archive',
     component: ComponentCreator('/designer/archive', '34a'),
+    exact: true
+  },
+  {
+    path: '/designer/arrr',
+    component: ComponentCreator('/designer/arrr', '032'),
     exact: true
   },
   {
