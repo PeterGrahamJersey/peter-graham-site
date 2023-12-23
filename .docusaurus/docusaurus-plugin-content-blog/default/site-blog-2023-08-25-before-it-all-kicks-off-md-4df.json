@@ -5,21 +5,13 @@
   "description": "What to prepare before back to school? As an ECT 1 there's a sense of peace in my own ignorance. Even with a headstart of 5 weeks before summer I've not done this before and I don't know many of the students. Seating plans are going to be guesses, and while I can (and need to) do some planning I won't know what will work for each class until I start teaching them.",
   "date": "2023-08-25T00:00:00.000Z",
   "formattedDate": "August 25, 2023",
-  "tags": [
-    {
-      "label": "education",
-      "permalink": "/teacher/tags/education"
-    }
-  ],
+  "tags": [],
   "readingTime": 1.315,
   "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {
     "slug": "before-it-all-kicks-off",
-    "title": "Before it all kicks off",
-    "tags": [
-      "education"
-    ]
+    "title": "Before it all kicks off"
   },
   "prevItem": {
     "title": "Week 1 - preparation review",

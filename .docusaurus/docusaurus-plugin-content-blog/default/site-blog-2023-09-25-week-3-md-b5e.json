@@ -5,21 +5,13 @@
   "description": "How do you motivate those who choose to just do nothing?",
   "date": "2023-09-25T00:00:00.000Z",
   "formattedDate": "September 25, 2023",
-  "tags": [
-    {
-      "label": "education",
-      "permalink": "/teacher/tags/education"
-    }
-  ],
+  "tags": [],
   "readingTime": 1.665,
   "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {
     "slug": "week-3-motivating-students",
-    "title": "Week 3 - motivating students",
-    "tags": [
-      "education"
-    ]
+    "title": "Week 3 - motivating students"
   },
   "nextItem": {
     "title": "Week 2 - over-planning",

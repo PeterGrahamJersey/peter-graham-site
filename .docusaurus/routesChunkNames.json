@@ -147,37 +147,6 @@
     "sidebar": "sidebar---teacher-814-914",
     "content": "content---teacher-before-it-all-kicks-off-4-df-bdf"
   },
-  "/teacher/tags-133": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---teacherec-8-bdb"
-    },
-    "sidebar": "sidebar---teacher-814-914",
-    "tags": "tags---teacher-tagsa-12-c3e"
-  },
-  "/teacher/tags/education-2ab": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---teacherec-8-bdb"
-    },
-    "sidebar": "sidebar---teacher-814-914",
-    "items": [
-      {
-        "content": "content---teacher-433-94c"
-      },
-      {
-        "content": "content---teacher-0-fb-62c"
-      },
-      {
-        "content": "content---teacherecc-653"
-      },
-      {
-        "content": "content---teacherbea-2c1"
-      }
-    ],
-    "tag": "tag---teacher-tags-educatione-9-e-ce9",
-    "listMetadata": "listMetadata---teacher-tags-education-19-a-9f1"
-  },
   "/teacher/week-1-preparation-review-8f0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {

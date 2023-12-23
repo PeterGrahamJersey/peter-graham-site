@@ -5,21 +5,13 @@
   "description": "2 weeks down. The job is fun, the planning was overwhelming this week.",
   "date": "2023-09-17T00:00:00.000Z",
   "formattedDate": "September 17, 2023",
-  "tags": [
-    {
-      "label": "education",
-      "permalink": "/teacher/tags/education"
-    }
-  ],
+  "tags": [],
   "readingTime": 1.33,
   "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {
     "slug": "week-2-over-planning",
-    "title": "Week 2 - over-planning",
-    "tags": [
-      "education"
-    ]
+    "title": "Week 2 - over-planning"
   },
   "prevItem": {
     "title": "Week 3 - motivating students",

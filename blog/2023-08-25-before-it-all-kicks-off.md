@@ -2,7 +2,7 @@
 slug: before-it-all-kicks-off
 title: Before it all kicks off
 # authors: peter
-tags: [education]
+# tags: [education]
 ---
 
 # Before it all kicks off

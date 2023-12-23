@@ -5,21 +5,13 @@
   "description": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didn't?",
   "date": "2023-09-09T00:00:00.000Z",
   "formattedDate": "September 9, 2023",
-  "tags": [
-    {
-      "label": "education",
-      "permalink": "/teacher/tags/education"
-    }
-  ],
+  "tags": [],
   "readingTime": 1.895,
   "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {
     "slug": "week-1-preparation-review",
-    "title": "Week 1 - preparation review",
-    "tags": [
-      "education"
-    ]
+    "title": "Week 1 - preparation review"
   },
   "prevItem": {
     "title": "Week 2 - over-planning",

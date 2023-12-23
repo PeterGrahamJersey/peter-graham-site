@@ -9,21 +9,13 @@
         "description": "How do you motivate those who choose to just do nothing?",
         "date": "2023-09-25T00:00:00.000Z",
         "formattedDate": "September 25, 2023",
-        "tags": [
-          {
-            "label": "education",
-            "permalink": "/teacher/tags/education"
-          }
-        ],
+        "tags": [],
         "readingTime": 1.665,
         "hasTruncateMarker": true,
         "authors": [],
         "frontMatter": {
           "slug": "week-3-motivating-students",
-          "title": "Week 3 - motivating students",
-          "tags": [
-            "education"
-          ]
+          "title": "Week 3 - motivating students"
         },
         "nextItem": {
           "title": "Week 2 - over-planning",
@@ -41,21 +33,13 @@
         "description": "2 weeks down. The job is fun, the planning was overwhelming this week.",
         "date": "2023-09-17T00:00:00.000Z",
         "formattedDate": "September 17, 2023",
-        "tags": [
-          {
-            "label": "education",
-            "permalink": "/teacher/tags/education"
-          }
-        ],
+        "tags": [],
         "readingTime": 1.33,
         "hasTruncateMarker": true,
         "authors": [],
         "frontMatter": {
           "slug": "week-2-over-planning",
-          "title": "Week 2 - over-planning",
-          "tags": [
-            "education"
-          ]
+          "title": "Week 2 - over-planning"
         },
         "prevItem": {
           "title": "Week 3 - motivating students",
@@ -77,21 +61,13 @@
         "description": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didn't?",
         "date": "2023-09-09T00:00:00.000Z",
         "formattedDate": "September 9, 2023",
-        "tags": [
-          {
-            "label": "education",
-            "permalink": "/teacher/tags/education"
-          }
-        ],
+        "tags": [],
         "readingTime": 1.895,
         "hasTruncateMarker": true,
         "authors": [],
         "frontMatter": {
           "slug": "week-1-preparation-review",
-          "title": "Week 1 - preparation review",
-          "tags": [
-            "education"
-          ]
+          "title": "Week 1 - preparation review"
         },
         "prevItem": {
           "title": "Week 2 - over-planning",
@@ -113,21 +89,13 @@
         "description": "What to prepare before back to school? As an ECT 1 there's a sense of peace in my own ignorance. Even with a headstart of 5 weeks before summer I've not done this before and I don't know many of the students. Seating plans are going to be guesses, and while I can (and need to) do some planning I won't know what will work for each class until I start teaching them.",
         "date": "2023-08-25T00:00:00.000Z",
         "formattedDate": "August 25, 2023",
-        "tags": [
-          {
-            "label": "education",
-            "permalink": "/teacher/tags/education"
-          }
-        ],
+        "tags": [],
         "readingTime": 1.315,
         "hasTruncateMarker": true,
         "authors": [],
         "frontMatter": {
           "slug": "before-it-all-kicks-off",
-          "title": "Before it all kicks off",
-          "tags": [
-            "education"
-          ]
+          "title": "Before it all kicks off"
         },
         "prevItem": {
           "title": "Week 1 - preparation review",

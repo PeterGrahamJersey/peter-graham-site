@@ -88,16 +88,6 @@ export default [
     exact: true
   },
   {
-    path: '/teacher/tags',
-    component: ComponentCreator('/teacher/tags', '133'),
-    exact: true
-  },
-  {
-    path: '/teacher/tags/education',
-    component: ComponentCreator('/teacher/tags/education', '2ab'),
-    exact: true
-  },
-  {
     path: '/teacher/week-1-preparation-review',
     component: ComponentCreator('/teacher/week-1-preparation-review', '8f0'),
     exact: true
