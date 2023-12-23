@@ -392,11 +392,38 @@
               "permalink": "/designer/fist-the-only-agent-left"
             },
             "nextItem": {
+              "title": "FIST Dollhouse",
+              "permalink": "/designer/fist-dollhouse"
+            }
+          },
+          "content": "Art and co-design for a TTRPG.\n\n[View on Itch](https://atlasarcane.itch.io/haunting).\n\n![Haunting, the cover of a navy-blue zine with a drawing of a haunted house on the front.](./haunting-mockup-1-cover.jpg)\n\n<!--truncate-->\n\nHaunting is a 2-player TTRPG telling the story of a haunted house across a number of inhabitants. Haunting was co-designed with Dale Blackburn. I made the cover and art for the game choosing a simple line-art style to capture distressed everyday objects and cobwebs.\n\n![Tiled drawings of everyday objects that are slighltly distressed e.g. a television showing static.](./haunting-background-tiled-art.png)\n\n![A flowchart shows the gameplay loop of Haunting, from creating the house to living out the lives of the occupants.](./haunting-gameplay-loop.png)\n\n![Occupants, a spread from the game, line-art portraits of people above a wooden floor surround the title.](./haunting-mockup-2-occupants.jpg)"
+        },
+        {
+          "id": "fist-dollhouse",
+          "metadata": {
+            "permalink": "/designer/fist-dollhouse",
+            "source": "@site/blogDesigner/2022-01-03-fist-dollhouse/index.md",
+            "title": "FIST Dollhouse",
+            "description": "Writing, design and layout for a TTRPG supplement.",
+            "date": "2022-01-03T00:00:00.000Z",
+            "formattedDate": "January 3, 2022",
+            "tags": [],
+            "hasTruncateMarker": true,
+            "authors": [],
+            "frontMatter": {
+              "slug": "fist-dollhouse",
+              "title": "FIST Dollhouse"
+            },
+            "prevItem": {
+              "title": "Haunting",
+              "permalink": "/designer/haunting"
+            },
+            "nextItem": {
               "title": "Arrr",
               "permalink": "/designer/arrr"
             }
           },
-          "content": "Art and co-design for a TTRPG.\n\n[View on Itch](https://atlasarcane.itch.io/haunting).\n\n![Haunting, the cover of a navy-blue zine with a drawing of a haunted house on the front.](./haunting-mockup-1-cover.jpg)\n\n<!--truncate-->\n\nHaunting is a 2-player TTRPG telling the story of a haunted house across a number of inhabitants. Haunting was co-designed with Dale Blackburn. I made the cover and art for the game choosing a simple line-art style to capture distressed everyday objects and cobwebs.\n\n![Tiled drawings of everyday objects that are slighltly distressed e.g. a television showing static.](./haunting-background-tiled-art.png)\n\n![A flowchart shows the gameplay loop of Haunting, from creating the house to living out the lives of the occupants.](./haunting-gameplay-loop.png)\n\n![Occupants, a spread from the game, line-art portraits of people above a wooden floor surround the title.](./haunting-mockup-2-occupants.jpg)"
+          "content": "Writing, design and layout for a TTRPG supplement.\n\n[View on Itch](https://atlasarcane.itch.io/fist-dollhouse).\n\n![A flowchart style map connects many variants of a room showing whether they are reached via the window, door or stairs in the adventure.](./screenshot-2.png)\n\n<!--truncate-->\n\nDollhouse is a 1-page scenario for the FIST TTRPG (a cold-war sci-fi/pulp game). To fit the scenario on a single page required a condensed flow-chart-like map with a repeated structure to enable the game master to quickly interpret each room and the players path through the scenario.\n\n![A spread showing the location, encounters and the objective of the adventure.](./screenshot-1.png)"
         },
         {
           "id": "arrr",
@@ -415,8 +442,8 @@
               "title": "Arrr"
             },
             "prevItem": {
-              "title": "Haunting",
-              "permalink": "/designer/haunting"
+              "title": "FIST Dollhouse",
+              "permalink": "/designer/fist-dollhouse"
             }
           },
           "content": "Art and co-design for a TTRPG adventure.\n\n[View on Itch](https://atlasarcane.itch.io/arrr).\n\n![Arrr a pirate adventure for DURF. Next to the title, 3 clueless looking line-art pirates stand in front of a ship being dragged into the sea by tentacles.](./arr-cover.png)\n\n<!--truncate-->\n\nArrr is a pirate supplement for the DURF TTRPG. Arrr was co-designed with Dale Blackburn. I made the cover and art for the game replicating the line-art and halftone style of Emiel Boven in DURF.\n\n![Tiled drawings of piratey objects.](./arr-accents.png)\n\n![An isometric map of a pirate themed island - featuring a volcano, a shark infested lagoon, and a shipwreck amongst other locations.](./arr-map.png)\n\n![An illustration. A tentacle curls through the water amidst driftwood and a forlorn pirate hat.](./arr-inside-cover.png)"
@@ -428,6 +455,7 @@
             "fist-shriek",
             "fist-the-only-agent-left",
             "haunting",
+            "fist-dollhouse",
             "arrr"
           ],
           "metadata": {
@@ -435,7 +463,7 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 5,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }

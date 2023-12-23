@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/designer',
-    component: ComponentCreator('/designer', '889'),
+    component: ComponentCreator('/designer', '494'),
     exact: true
   },
   {
@@ -50,6 +50,11 @@ export default [
   {
     path: '/designer/arrr',
     component: ComponentCreator('/designer/arrr', '032'),
+    exact: true
+  },
+  {
+    path: '/designer/fist-dollhouse',
+    component: ComponentCreator('/designer/fist-dollhouse', '370'),
     exact: true
   },
   {
