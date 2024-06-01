@@ -1,0 +1,23 @@
+{
+  "permalink": "/designer/fist-dollhouse",
+  "source": "@site/blogDesigner/2022-01-03-fist-dollhouse/index.md",
+  "title": "FIST Dollhouse",
+  "description": "Writing, design and layout for a TTRPG supplement.",
+  "date": "2022-01-03T00:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "fist-dollhouse",
+    "title": "FIST Dollhouse"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Haunting",
+    "permalink": "/designer/haunting"
+  },
+  "nextItem": {
+    "title": "Arrr",
+    "permalink": "/designer/arrr"
+  }
+}

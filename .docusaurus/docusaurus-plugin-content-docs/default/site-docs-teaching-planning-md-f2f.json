@@ -1,0 +1,22 @@
+{
+  "id": "teaching/planning",
+  "title": "Planning",
+  "description": "- Where time allows, plan units of learning cycles instead of individual lessons.",
+  "source": "@site/docs/teaching/planning.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/planning",
+  "permalink": "/docs/teaching/planning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standard Lesson",
+    "permalink": "/docs/teaching/standard-lesson"
+  }
+}

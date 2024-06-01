@@ -1,0 +1,24 @@
+{
+  "permalink": "/teacher/week-1-preparation-review",
+  "source": "@site/blog/2023-09-09-week-1.md",
+  "title": "Week 1 - preparation review",
+  "description": "1 week done, it went smoother than expected. Looking back at my preparation what worked and what didn't?",
+  "date": "2023-09-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.895,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "week-1-preparation-review",
+    "title": "Week 1 - preparation review"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Week 2 - over-planning",
+    "permalink": "/teacher/week-2-over-planning"
+  },
+  "nextItem": {
+    "title": "Before it all kicks off",
+    "permalink": "/teacher/before-it-all-kicks-off"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "permalink": "/teacher/week-2-over-planning",
+  "source": "@site/blog/2023-09-17-week-2.md",
+  "title": "Week 2 - over-planning",
+  "description": "2 weeks down. The job is fun, the planning was overwhelming this week.",
+  "date": "2023-09-17T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.33,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "week-2-over-planning",
+    "title": "Week 2 - over-planning"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Week 3 - motivating students",
+    "permalink": "/teacher/week-3-motivating-students"
+  },
+  "nextItem": {
+    "title": "Week 1 - preparation review",
+    "permalink": "/teacher/week-1-preparation-review"
+  }
+}

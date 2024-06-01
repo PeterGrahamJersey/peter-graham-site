@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Week 3 - motivating students",
+      "permalink": "/teacher/week-3-motivating-students",
+      "unlisted": false
+    },
+    {
+      "title": "Week 2 - over-planning",
+      "permalink": "/teacher/week-2-over-planning",
+      "unlisted": false
+    },
+    {
+      "title": "Week 1 - preparation review",
+      "permalink": "/teacher/week-1-preparation-review",
+      "unlisted": false
+    },
+    {
+      "title": "Before it all kicks off",
+      "permalink": "/teacher/before-it-all-kicks-off",
+      "unlisted": false
+    }
+  ]
+}

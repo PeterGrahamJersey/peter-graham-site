@@ -1,0 +1,17 @@
+{
+  "id": "test-doc",
+  "title": "test-doc",
+  "description": "Create a doc page with rich content.",
+  "source": "@site/docs/test-doc.md",
+  "sourceDirName": ".",
+  "slug": "/test-doc",
+  "permalink": "/docs/test-doc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Create a doc page with rich content."
+  },
+  "sidebar": "defaultSidebar"
+}

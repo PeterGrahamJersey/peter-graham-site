@@ -1,0 +1,236 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/designer-696": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "items": [
+      {
+        "content": "content---designer-7-d-6-eae"
+      },
+      {
+        "content": "content---designerc-56-6c5"
+      },
+      {
+        "content": "content---designer-108-543"
+      },
+      {
+        "content": "content---designercdc-a05"
+      },
+      {
+        "content": "content---designera-85-c74"
+      }
+    ],
+    "__props": "__props---designer-56-d-266"
+  },
+  "/designer/archive-980": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "__props": "__props---designer-archive-113-a04"
+  },
+  "/designer/arrr-78f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---designer-arrr-65-f-2d8"
+      },
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-arrr-718-a54"
+  },
+  "/designer/fist-dollhouse-810": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---designer-arrr-65-f-2d8"
+      },
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-fist-dollhouse-32-e-d86"
+  },
+  "/designer/fist-shriek-eb8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---designer-arrr-65-f-2d8"
+      },
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-fist-shriek-6-c-8-086"
+  },
+  "/designer/fist-the-only-agent-left-7c2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---designer-arrr-65-f-2d8"
+      },
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-fist-the-only-agent-left-4-e-1-5e0"
+  },
+  "/designer/haunting-f42": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---designer-arrr-65-f-2d8"
+      },
+      "plugin": "plugin---designer-28-a-eb9"
+    },
+    "sidebar": "sidebar---designer-0-c-6-129",
+    "content": "content---designer-hauntingca-2-9ed"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/teacher-902": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "items": [
+      {
+        "content": "content---teacher-433-94c"
+      },
+      {
+        "content": "content---teacher-0-fb-62c"
+      },
+      {
+        "content": "content---teacherecc-653"
+      },
+      {
+        "content": "content---teacherbea-2c1"
+      }
+    ],
+    "__props": "__props---teacherfe-5-bf8"
+  },
+  "/teacher/archive-524": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---teacher-369-605"
+    },
+    "__props": "__props---teacher-archive-865-384"
+  },
+  "/teacher/before-it-all-kicks-off-7e7": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---teacher-before-it-all-kicks-offace-af4"
+      },
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-before-it-all-kicks-off-4-df-bdf"
+  },
+  "/teacher/week-1-preparation-review-120": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---teacher-before-it-all-kicks-offace-af4"
+      },
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-week-1-preparation-review-7-ed-e58"
+  },
+  "/teacher/week-2-over-planning-7dd": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---teacher-before-it-all-kicks-offace-af4"
+      },
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-week-2-over-planning-19-f-2a1"
+  },
+  "/teacher/week-3-motivating-students-e4b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---teacher-before-it-all-kicks-offace-af4"
+      },
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-week-3-motivating-studentsb-5-e-977"
+  },
+  "/docs-3f7": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-00f": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-3d1": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/test-doc-f72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-test-doc-2-fb-930"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}
