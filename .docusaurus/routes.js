@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/teacher',
-    component: ComponentCreator('/teacher', '902'),
+    component: ComponentCreator('/teacher', '1c8'),
     exact: true
   },
   {
@@ -90,6 +90,21 @@ export default [
   {
     path: '/teacher/before-it-all-kicks-off',
     component: ComponentCreator('/teacher/before-it-all-kicks-off', '7e7'),
+    exact: true
+  },
+  {
+    path: '/teacher/class-culture-motivation',
+    component: ComponentCreator('/teacher/class-culture-motivation', '61d'),
+    exact: true
+  },
+  {
+    path: '/teacher/tags',
+    component: ComponentCreator('/teacher/tags', '6fd'),
+    exact: true
+  },
+  {
+    path: '/teacher/tags/class-culture',
+    component: ComponentCreator('/teacher/tags/class-culture', '6e7'),
     exact: true
   },
   {

@@ -1,6 +1,7 @@
 ---
 slug: before-it-all-kicks-off
 title: Before it all kicks off
+unlisted: true
 # authors: peter
 # tags: [education]
 ---

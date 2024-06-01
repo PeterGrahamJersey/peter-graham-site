@@ -136,13 +136,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/teacher-902": {
+  "/teacher-1c8": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---teacher-369-605"
     },
     "sidebar": "sidebar---teacher-814-914",
     "items": [
+      {
+        "content": "content---teacher-37-a-7bf"
+      },
       {
         "content": "content---teacher-433-94c"
       },
@@ -175,6 +178,38 @@
     },
     "sidebar": "sidebar---teacher-814-914",
     "content": "content---teacher-before-it-all-kicks-off-4-df-bdf"
+  },
+  "/teacher/class-culture-motivation-61d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---teacher-before-it-all-kicks-offace-af4"
+      },
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-class-culture-motivationf-58-059"
+  },
+  "/teacher/tags-6fd": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "__props": "__props---teacher-tags-146-cc8"
+  },
+  "/teacher/tags/class-culture-6e7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "items": [
+      {
+        "content": "content---teacher-37-a-7bf"
+      }
+    ],
+    "__props": "__props---teacher-tags-class-culturefb-1-833"
   },
   "/teacher/week-1-preparation-review-120": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
