@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/teacher',
-    component: ComponentCreator('/teacher', '1c8'),
+    component: ComponentCreator('/teacher', 'f7d'),
     exact: true
   },
   {
@@ -98,13 +98,18 @@ export default [
     exact: true
   },
   {
+    path: '/teacher/class-culture-pgce',
+    component: ComponentCreator('/teacher/class-culture-pgce', '0a0'),
+    exact: true
+  },
+  {
     path: '/teacher/tags',
     component: ComponentCreator('/teacher/tags', '6fd'),
     exact: true
   },
   {
     path: '/teacher/tags/class-culture',
-    component: ComponentCreator('/teacher/tags/class-culture', '6e7'),
+    component: ComponentCreator('/teacher/tags/class-culture', '7e4'),
     exact: true
   },
   {

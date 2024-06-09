@@ -1,6 +1,6 @@
 ---
 slug: class-culture-motivation
-title: Class Culture Motivation
+title: Class Culture - Motivation
 tags: [class-culture]
 ---
 

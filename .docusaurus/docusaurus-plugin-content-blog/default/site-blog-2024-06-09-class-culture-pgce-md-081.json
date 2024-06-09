@@ -1,0 +1,29 @@
+{
+  "permalink": "/teacher/class-culture-pgce",
+  "source": "@site/blog/2024-06-09-class-culture-pgce.md",
+  "title": "Class Culture - the PGCE",
+  "description": "Reviewing notes from my PGCE drew out some points about culture.",
+  "date": "2024-06-09T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "class-culture",
+      "permalink": "/teacher/tags/class-culture"
+    }
+  ],
+  "readingTime": 4.55,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "class-culture-pgce",
+    "title": "Class Culture - the PGCE",
+    "tags": [
+      "class-culture"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Class Culture - Motivation",
+    "permalink": "/teacher/class-culture-motivation"
+  }
+}

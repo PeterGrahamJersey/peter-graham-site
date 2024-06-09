@@ -136,13 +136,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/teacher-1c8": {
+  "/teacher-f7d": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---teacher-369-605"
     },
     "sidebar": "sidebar---teacher-814-914",
     "items": [
+      {
+        "content": "content---teacher-2-b-3-5b2"
+      },
       {
         "content": "content---teacher-37-a-7bf"
       },
@@ -190,6 +193,17 @@
     "sidebar": "sidebar---teacher-814-914",
     "content": "content---teacher-class-culture-motivationf-58-059"
   },
+  "/teacher/class-culture-pgce-0a0": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---teacher-before-it-all-kicks-offace-af4"
+      },
+      "plugin": "plugin---teacher-369-605"
+    },
+    "sidebar": "sidebar---teacher-814-914",
+    "content": "content---teacher-class-culture-pgce-081-819"
+  },
   "/teacher/tags-6fd": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
@@ -198,13 +212,16 @@
     "sidebar": "sidebar---teacher-814-914",
     "__props": "__props---teacher-tags-146-cc8"
   },
-  "/teacher/tags/class-culture-6e7": {
+  "/teacher/tags/class-culture-7e4": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---teacher-369-605"
     },
     "sidebar": "sidebar---teacher-814-914",
     "items": [
+      {
+        "content": "content---teacher-2-b-3-5b2"
+      },
       {
         "content": "content---teacher-37-a-7bf"
       }

@@ -1,7 +1,7 @@
 {
   "permalink": "/teacher/class-culture-motivation",
   "source": "@site/blog/2024-06-01-class-culture-motivation.md",
-  "title": "Class Culture Motivation",
+  "title": "Class Culture - Motivation",
   "description": "As I approach the final term of my first year in teaching I keep thinking about culture.",
   "date": "2024-06-01T00:00:00.000Z",
   "tags": [
@@ -16,12 +16,16 @@
   "authors": [],
   "frontMatter": {
     "slug": "class-culture-motivation",
-    "title": "Class Culture Motivation",
+    "title": "Class Culture - Motivation",
     "tags": [
       "class-culture"
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Class Culture - the PGCE",
+    "permalink": "/teacher/class-culture-pgce"
+  },
   "nextItem": {
     "title": "Week 3 - motivating students",
     "permalink": "/teacher/week-3-motivating-students"

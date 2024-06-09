@@ -2,7 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Class Culture Motivation",
+      "title": "Class Culture - the PGCE",
+      "permalink": "/teacher/class-culture-pgce",
+      "unlisted": false
+    },
+    {
+      "title": "Class Culture - Motivation",
       "permalink": "/teacher/class-culture-motivation",
       "unlisted": false
     },
@@ -19,11 +24,6 @@
     {
       "title": "Week 1 - preparation review",
       "permalink": "/teacher/week-1-preparation-review",
-      "unlisted": false
-    },
-    {
-      "title": "Before it all kicks off",
-      "permalink": "/teacher/before-it-all-kicks-off",
       "unlisted": false
     }
   ]
